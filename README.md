@@ -29,4 +29,4 @@
 ### Program
 ![IMG 10](screenshoot/Latihan3.1.png)
 ### Output
-![IMG 11](screenshoot/Latihan2.2.png)
+![IMG 11](screenshoot/Latihan3.2.png)
