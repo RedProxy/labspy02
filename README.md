@@ -18,6 +18,10 @@
 #### Flowchart
 ![IMG 1](screenshoot/flowchart.png)
 #### Program
+- Gunakan statement if untuk inisiasi Bilangan Pertama.
+- Gunakan statement elif untuk inisiasi Bilangan Kedua.
+- Gunakan statement else untuk inisiasi Bilangan Ketiga.
+- Kemudian Run
 ![IMG 2](screenshoot/TugasP2.png)
 #### Output
 ![IMG 3](screenshoot/TugasP2.1.png)
