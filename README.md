@@ -22,6 +22,7 @@
 - Gunakan statement elif untuk inisiasi Bilangan Kedua.
 - Gunakan statement else untuk inisiasi Bilangan Ketiga.
 - Kemudian Run
+
 ![IMG 2](screenshoot/TugasP2.png)
 #### Output
 ![IMG 3](screenshoot/TugasP2.1.png)
