@@ -1,7 +1,7 @@
 # labspy02
 ## Tugas Praktikum 2
 ### Program input tiga buah bilangan dan menentukan nilai terbesarnya
-#### Algoritma menentukan nilai terbeasar dari 3 buah bilangan.
+#### Algoritma menentukan nilai terbesar dari 3 buah bilangan.
 - Diketahui 3 buah bilangan Bil1, Bil2, Bil3 akan dicari nilai terbesar.
 
 1. Mulai
