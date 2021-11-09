@@ -20,7 +20,7 @@
 - Gunakan statement if untuk inisiasi Bilangan Pertama.
 - Gunakan statement elif untuk inisiasi Bilangan Kedua.
 - Gunakan statement else untuk inisiasi Bilangan Ketiga.
-- Kemudian Run
+- Kemudian RunBilangan Ketiga
 
 ![IMG 2](screenshoot/TugasP2.png)
 #### Output
