@@ -16,7 +16,7 @@
 10. Cetak "Bilangan terbesar bilangan ketiga"
 11. Selesai
 #### Flowchart
-![IMG 1](screenshoot/flowchartT2.png)
+![IMG 1](screenshoot/flowcart.png)
 #### Program
 - Gunakan statement if untuk inisiasi Bilangan Pertama.
 - Gunakan statement elif untuk inisiasi Bilangan Kedua.
