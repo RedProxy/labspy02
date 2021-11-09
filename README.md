@@ -5,18 +5,17 @@
 - Diketahui 3 buah bilangan Bil1, Bil2, Bil3 akan dicari nilai terbesar.
 
 1. Mulai
-2. Inisiasi Bil1, Bil2, Bil3 sebagai Integer
-3. Baca Bil1
-4. Baca Bil2
-5. Baca Bil3
-6. Jika Bil1 > Bil2 dan Bil1 > Bil3 maka kerjakan langkah nomor 8, selain itu.
-7. Jika Bil2 > Bil1 dan Bil2 > Bil3 maka kerjakan langkah nomor 9, selain itu kerjakan langkah nomor 10
-8. Cetak "Bilangan terbesar bilangan pertama"
-9. Cetak "Bilangan terbesar bilangan kedua"
-10. Cetak "Bilangan terbesar bilangan ketiga"
+2. Baca nilai a
+3. Baca nilai b
+4. Baca nilai c
+6. Jika a > b dan a > c maka kerjakan langkah nomor 8, selain itu.
+7. Jika b > a dan b > c maka kerjakan langkah nomor 9, selain itu kerjakan langkah nomor 10
+8. Cetak "Bilangan terbesar nilai a"
+9. Cetak "Bilangan terbesar nilai b"
+10. Cetak "Bilangan terbesar nilai c"
 11. Selesai
 #### Flowchart
-![IMG 1](screenshoot/flowcart.png)
+![IMG 1](screenshoot/flowchart.png)
 #### Program
 - Gunakan statement if untuk inisiasi Bilangan Pertama.
 - Gunakan statement elif untuk inisiasi Bilangan Kedua.
